@@ -37,7 +37,7 @@ body{
     margin: 0;
     padding: 0;
     border: 0;
-    transition:  transform .5s ease;
+    transition:  transform .25s ease;
 }
 .img-hover-zoom:hover img{
     transform: scale(1.5);
